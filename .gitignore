@@ -8,6 +8,9 @@
 # Folders
 _obj
 _test
+bin/
+pkg/
+goworkspace/
 
 # Architecture specific extensions/prefixes
 *.[568vq]
