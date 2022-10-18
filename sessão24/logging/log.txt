@@ -1,0 +1,1 @@
+2022/10/18 15:08:26 teve erro  open a.txt: O sistema não pode encontrar o arquivo especificado.
